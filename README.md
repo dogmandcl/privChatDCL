@@ -30,7 +30,6 @@ An admin usr can do two things
 
 - Click E to toggle the announcement UI. Any messages written here are are displayed in a private chat window on of all players in the scene
 
-![](screenshot/announcement.png)
 
 
 Learn more about how to build your own scenes in our [documentation](https://docs.decentraland.org/) site.
